@@ -1,0 +1,18 @@
+== Changelog ==
+
+= Theme Name: Infoway =
+
+= Version: 1.1.1 =
+
+* * Dynamic Image returning fatal error Fixed
+
+= Version: 1.1 =
+
+* * Unique Prefix
+* * Images License Specified
+* * WP Debug Error Fixed
+* * Untranslated Domain Fixed
+
+= Version: 1.0 =
+
+* * Infoway Theme is created on 10/01/2013.
